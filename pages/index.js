@@ -8,15 +8,24 @@ export default function Home() {
       <Head>
         <title>WeeklyTimeCard</title>
         <link rel="icon" href="/favicon.ico" />
-      </Head>
 
+      </Head>
+     shit
+     what the handleClick hmm
+     
       <main>
         <Header title="Welcome to my app, Bitches!!" />
+        <object type="text/html" data="https://bradronto.github.io" width="100%" height="600px"></object>
+  
+     
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
-      </main>
 
+       
+       
+      </main>
+      
       <Footer />
     </div>
   )
